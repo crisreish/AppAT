@@ -1,1 +1,0 @@
-package br.edu.infnet.appmanutencao.model.exceptions;
